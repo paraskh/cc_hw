@@ -1,0 +1,1027 @@
+{
+    "MAIN_PAGE": {
+        "title": "CNN International - Breaking News, US News, World News and Video",
+        "description": "Find the latest breaking news and information on the top stories, weather, business, entertainment, politics, and more. For in-depth coverage, CNN provides special reports, video, audio, photo galleries, and interactive guides.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com"
+    },
+    "https://cnn.com/specials/tech/work-transformed": {
+        "title": "Work Transformed - CNN",
+        "description": "How we work may be forever changed as millions transition to remote work and the job market landscape shifts daily. CNN Business' Work Transformed shares advice, tips, tactics and relevant updates as the world navigates this new normal.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/200616110422-work-transformed-logo-super-tease.png",
+        "favicon": "https://cnn.com/specials/tech/work-transformed/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/work-transformed"
+    },
+    "https://cnn.com/specials/photos": {
+        "title": "CNN Photos - CNN",
+        "description": "See the latest photo galleries and stories from the CNN Photo Desk.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/200430144428-cnn-photos-logo-on-black-super-tease.png",
+        "favicon": "https://cnn.com/specials/photos/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/photos"
+    },
+    "https://cnn.com/style/arts": {
+        "title": "Art news, features and art events around the world - CNN Style",
+        "description": "Outstanding photography, sculpture, digital art and more from the world's best artists.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/arts/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/arts"
+    },
+    "https://cnn.com/interactive/2020/weather/gonzalo-storm-path-tracker/index.html": {
+        "title": "CNN Storm Tracker",
+        "description": "Track the latest severe storm activity with CNN's storm tracker.",
+        "image": "https://www.cnn.com/interactive/weather/hurricane/satellite.jpg",
+        "favicon": "https://cnn.com/interactive/2020/weather/gonzalo-storm-path-tracker/index.html/favicon.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/interactive/2020/weather/gonzalo-storm-path-tracker/index.html"
+    },
+    "https://cnn.com/entertainment": {
+        "title": "Entertainment News - Celebrities, Movies, TV, Music - CNN",
+        "description": "View entertainment news and videos for the latest movie, music, TV and celebrity headlines on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/entertainment/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/entertainment"
+    },
+    "https://cnn.com/newsletters": {
+        "title": "CNN newsletters: Subscribe for news, lifestyle, markets info and more ",
+        "description": [
+            "To complete your CNN profile and ensure you are able to receive important account information, please verify your email address."
+        ],
+        "image": "https://cdn.cnn.com/cnn/2020/images/07/02/breaking-news_2.jpg",
+        "favicon": "//cnn.com/favicon.ie9.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/newsletters"
+    },
+    "https://www.cnn.com/sitemap.html": {
+        "title": "CNN Site Map - Main Index",
+        "description": null,
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://www.cnn.com/sitemap.html/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://www.cnn.com/sitemap.html"
+    },
+    "https://cnn.com/specials/health/fitness-life-but-better": {
+        "title": "Fitness: Life, But Better - CNN",
+        "description": "Fitness tips, science and tools from Life, But Better, CNN's essential source for information that inspires and challenges us to lead better lives.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210428145849-life-but-better-fitness-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/health/fitness-life-but-better/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/health/fitness-life-but-better"
+    },
+    "https://cnn.com/business/tech": {
+        "title": "Tech News - Latest Technology Headlines and Trends on CNN Business - CNN",
+        "description": "View the latest technology headlines, gadget and smartphone trends, and insights from tech industry leaders.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/business/tech/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/business/tech"
+    },
+    "https://cnn.com/store.cnn.com": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/store.cnn.com/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/store.cnn.com"
+    },
+    "https://cnn.com/sport/football": {
+        "title": "Football news, headlines, videos, interviews and comment - CNN",
+        "description": "Latest football news from around the world, with features and interviews with the biggest stars of the English Premier League, Spanish La Liga, German Bundesliga and Italian Serie A.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/sport/football/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/sport/football"
+    },
+    "https://cnn.com/specials/cnn-investigates": {
+        "title": "CNN Investigates - CNN",
+        "description": [
+            "Seek truth. Break news. Hold the powerful accountable"
+        ],
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/170518025807-investigates-logo-specials-page-5-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/cnn-investigates/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/cnn-investigates"
+    },
+    "https://cnn.com/specials/tech/mission-ahead": {
+        "title": "Mission: Ahead - CNN",
+        "description": "Their mission: Tackle the world's biggest problems. The outcome: Solutions you have to see to believe.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/180921153636-mission-ahead-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/tech/mission-ahead/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/mission-ahead"
+    },
+    "https://cnn.com/china": {
+        "title": "China news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest China news and videos, including politics, travel and business headlines.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/china/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/china"
+    },
+    "https://cnn.com/india": {
+        "title": "India news - Covid-19 coverage, breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest India news, videos, headlines and opinion on CNN.com.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/india/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/india"
+    },
+    "https://cnn.com/specials/cnn-heroes": {
+        "title": "CNN Heroes: Everyday people changing the world - CNN",
+        "description": "Everyday people doing extraordinary things to change the world ",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/171101102820-cnnheroes-2017-top-10-press-00014609-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/cnn-heroes/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/cnn-heroes"
+    },
+    "https://cnn.com/msa": {
+        "title": "Modern Slavery Act Statement - CNN",
+        "description": "WarnerMedia is committed to conducting global business with high ethical and legal standards.  ",
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/msa/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/msa"
+    },
+    "https://cnn.com/specials/tech/upstarts": {
+        "title": "Upstarts - CNN",
+        "description": "Meet the next generation of moguls in the making.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/180921155549-upstarts-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/tech/upstarts/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/upstarts"
+    },
+    "https://cnn.com/specials/videos/digital-shorts": {
+        "title": "CNN Digital Shorts - CNN",
+        "description": "CNN Films and CNN Digital Studios present original short films directed by established and rising filmmakers.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/150310122432-cnnfilms-digital-shorts-card-super-169.png",
+        "favicon": "https://cnn.com/specials/videos/digital-shorts/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/videos/digital-shorts"
+    },
+    "https://cnn.com/weather": {
+        "title": "Weather news and local forecast - CNN",
+        "description": "Get the latest weather news and forecasts from CNN's meteorologists, watch extreme weather videos, learn about climate change and follow major hurricanes with CNN's storm tracker.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/weather/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/weather"
+    },
+    "https://cnn.com/americas": {
+        "title": "Americas news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest South America news, Canada news, Mexico news and other top stories and videos from the Americas on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/americas/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/americas"
+    },
+    "https://cnn.com/transcripts": {
+        "title": "CNN.com - Transcripts",
+        "description": null,
+        "image": "/assets/header.transcripts.gif",
+        "favicon": "https://cnn.com/transcripts/favicon.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/transcripts"
+    },
+    "https://cnn.com/sport/tennis": {
+        "title": "Latest tennis news, headlines, videos and analysis - CNN",
+        "description": "Latest tennis news, player interviews and action from the men's ATP Tour and women's WTA Tour, the Australian Open, French Open, Wimbledon and US Open grand slams, plus video features from CNN's Open Court television show, hosted by Pat Cash.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/sport/tennis/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/sport/tennis"
+    },
+    "https://cnn.com/travel": {
+        "title": "CNN Travel ",
+        "description": "Get travel tips and inspiration with insider guides, fascinating stories, video experiences and stunning photos.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/08/logo-cnntravel.png",
+        "favicon": "https://cnn.com/travel/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/travel"
+    },
+    "https://cnn.com/more": {
+        "title": "Breaking News, Latest News and Videos - CNN",
+        "description": null,
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/more/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/more"
+    },
+    "https://cnn.com/specials/tech/gadget": {
+        "title": "Gadget - CNN",
+        "description": "New product announcements, news and reviews in the world of tablets, smartwatches and other tech gear.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/180926163651-gadget-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/tech/gadget/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/gadget"
+    },
+    "https://cnn.com/style/beauty": {
+        "title": "Beauty news and features around the world - CNN Style",
+        "description": "A global take on personal aesthetics and beauty culture",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/beauty/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/beauty"
+    },
+    "https://cnn.com/world": {
+        "title": "World news \u2013 breaking news, videos and headlines - CNN",
+        "description": "View CNN world news today for international news and videos from Europe, Asia, Africa, the Middle East and the Americas.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/world/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/world"
+    },
+    "https://cnn.com/specials/health/sleep-life-but-better": {
+        "title": "Sleep: Life, But Better - CNN",
+        "description": "Sleep tips, science and tools from Life, But Better, CNN's essential source for information that inspires and challenges us to lead better lives.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210428150045-life-but-better-sleep-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/health/sleep-life-but-better/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/health/sleep-life-but-better"
+    },
+    "https://cnn.com/style/luxury": {
+        "title": "Luxury goods, precious gems and high end spending - CNN Style",
+        "description": "The stories behind the world's most coveted watches, jewelry, luxury antiques and objets d'art.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/luxury/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/luxury"
+    },
+    "https://cnn.com/politics": {
+        "title": "CNNPolitics - Political News, Analysis and Opinion",
+        "description": "Politics at CNN has news, opinion and analysis of American and global politics Find news and video about elections, the White House, the U.N and much more.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/politics/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/politics"
+    },
+    "https://cnn.com/asia": {
+        "title": "Asia news - breaking news, video, headlines and opinion - CNN",
+        "description": "View Asia news to get the latest headlines from India, Japan, China and other Asian countries on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/asia/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/asia"
+    },
+    "https://cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker/": {
+        "title": "Wildfire map and air quality tracker",
+        "description": "View updated wildfire maps and the latest air quality index for different cities in the United States.",
+        "image": "https://cdn.cnn.com/cnn/2021/images/06/10/arizona-fire-social.jpg",
+        "favicon": "https://cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker/favicon.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker/"
+    },
+    "http://cnnnewsource.com": {
+        "title": "Digital Content & Video News Services ",
+        "description": "We\u2019re At The Heart Of It. Across The Country, Throughout Every News Cycle and on All Platforms, CNN Newsource Helps Local News Providers Tell Their Stories.",
+        "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "favicon": "https://www.cnnnewsource.com/wp-content/uploads/2019/08/cropped-CNN_logo_400x400-32x32.png",
+        "sitename": "CNN Newsource",
+        "color": null,
+        "url": "http://cnnnewsource.com"
+    },
+    "https://cnn.com/terms": null,
+    "https://cnn.com/arabic.cnn.com?hpt=header_edition-picker": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/arabic.cnn.com?hpt=header_edition-picker/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/arabic.cnn.com?hpt=header_edition-picker"
+    },
+    "https://cnn.com/middle-east": {
+        "title": "Middle East news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest Middle East news from Israel, Iran, Iraq, Syria and other Middle Eastern countries on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/middle-east/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/middle-east"
+    },
+    "https://cnn.com/business/perspectives": {
+        "title": "Analysis \u2013 CNN Business - CNN",
+        "description": "Go to CNN Business to read perspectives, opinion and analysis on today\u2019s global business, technology and media headlines, as well as economic trends.",
+        "image": "//cdn.cnn.com/cnnnext/dam/assets/190613154446-20190612-perspectives-logo-large-169.png",
+        "favicon": "https://cnn.com/business/perspectives/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/business/perspectives"
+    },
+    "https://cnn.com/specials/tv/all-shows": {
+        "title": "Browse CNN's shows and original programming - CNN",
+        "description": "Explore the list of CNN's TV shows to view schedules, videos and more.",
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/tv/all-shows/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tv/all-shows"
+    },
+    "https://cnn.com/specials/opinions/two-degrees": {
+        "title": "Climate change: The importance of 2 degrees - CNN",
+        "description": "CNN's John D. Sutter explores climate change and the importance of one number: 2 degrees Celsius.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/150421093456-two-degrees-card-graph-super-169.jpg",
+        "favicon": "https://cnn.com/specials/opinions/two-degrees/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/opinions/two-degrees"
+    },
+    "https://cnn.com/us.cnn.com?hpt=header_edition-picker": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/us.cnn.com?hpt=header_edition-picker/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/us.cnn.com?hpt=header_edition-picker"
+    },
+    "https://cnn.com/entertainment/celebrities": {
+        "title": "Celebrities - Entertainment News - CNN",
+        "description": "View the latest celebrity news and videos on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/entertainment/celebrities/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/entertainment/celebrities"
+    },
+    "https://cnn.com/specials/world/cnn-climate": {
+        "title": "Climate change: Latest news and explainers - CNN",
+        "description": "Climate change weaves through daily lives: the global politics of global warming, the business impact of greenhouse gas and carbon emissions and the environmental impact to the sea levels, extreme weather, food supply and more.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/150721112349-02-earth-photo-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/world/cnn-climate/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/world/cnn-climate"
+    },
+    "https://cnn.com/warnermediaprivacy.com/opt-out": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/warnermediaprivacy.com/opt-out/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/warnermediaprivacy.com/opt-out"
+    },
+    "https://cnn.com/specials/sport/paralympics-japan-2020-spt-intl": {
+        "title": "Tokyo 2020 Paralympic Games - CNN",
+        "description": "View the latest Tokyo 2020 Paralympic Games news, feature stories, photos and videos on CNN.com.",
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/sport/paralympics-japan-2020-spt-intl/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/sport/paralympics-japan-2020-spt-intl"
+    },
+    "https://cnn.com/facebook.com/cnninternational": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/facebook.com/cnninternational/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/facebook.com/cnninternational"
+    },
+    "https://cnn.com/specials/health/food-life-but-better": {
+        "title": "Food: Life, But Better - CNN",
+        "description": "Food and diet tips, science and tools from Life, But Better, CNN's essential source for information that inspires and challenges us to lead better lives.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210428145851-life-but-better-food-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/health/food-life-but-better/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/health/food-life-but-better"
+    },
+    "https://cnn.com/specials/weather/weather-video": {
+        "title": "Weather video - CNN",
+        "description": "Watch breaking news videos, forecasts and original video clips about weather and climate change on CNN Weather.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/170910080116-van-dam-miami-sunday-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/weather/weather-video/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/weather/weather-video"
+    },
+    "https://cnn.com/style/videos": {
+        "title": "Videos - CNN Style",
+        "description": "Watch original CNN videos and series on art, luxury, fashion, autos, architecture and design.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/videos/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/videos"
+    },
+    "https://cnn.com/style/design": {
+        "title": "Design - CNN Style",
+        "description": "Inspiring tech innovations and beautiful interior design objects from the industry's leading designers.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/design/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/design"
+    },
+    "https://cnn.com/videos": {
+        "title": "CNN Video Experience ",
+        "description": [],
+        "image": "//z.cdn.turner.com/cnn/2021/images/03/09/play.icon.png",
+        "favicon": "//cnn.com/favicon.ie9.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/videos"
+    },
+    "https://cnn.com/europe": {
+        "title": "Europe news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest European news and videos from the UK, Greece, France, Spain, Germany and other countries in Europe.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/europe/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/europe"
+    },
+    "https://cnn.com/interactive/call-to-earth/": {
+        "title": "Call to Earth",
+        "description": "Call to Earth is CNN\u2019s commitment to reporting on the environmental challenges facing our planet, together with the solutions. In partnership with Rolex as part of their Perpetual Planet initiative, our goal is to drive awareness, action and education around key issues, inspiring a blueprint for a more environmentally conscious life. #CalltoEarth  #PerpetualPlanet",
+        "image": "http://cdn.cnn.com/cnn/2019/images/11/22/cte-carda.jpg",
+        "favicon": "./favicon.png",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/interactive/call-to-earth/"
+    },
+    "https://cnn.com/live-tv": null,
+    "https://cnn.com/collection": {
+        "title": "CNN",
+        "description": null,
+        "image": null,
+        "favicon": "/assets/favicon/favicon-32x32.png?v=8je868GAGe",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/collection"
+    },
+    "https://cnn.com/tv/schedule/cnn": {
+        "title": "CNN TV Schedule - CNN",
+        "description": "View the TV schedule for CNN shows and programs.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/tv/schedule/cnn/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/tv/schedule/cnn"
+    },
+    "https://cnn.com/vr": {
+        "title": "Virtual Reality & 360\u00b0 Video - CNNVR - CNN",
+        "description": "Immerse yourself in 360 videos from around the globe with CNNVR.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/vr/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/vr"
+    },
+    "https://cnn.com/interactive/asequals/": {
+        "title": "As Equals: These are the challenges facing women in the world's least developed countries",
+        "description": "These are the challenges facing women in the world's least developed countries.",
+        "image": "https://www.cnn.com/interactive/asequals/images/social-card.jpg",
+        "favicon": "https://cnn.com/interactive/asequals/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/interactive/asequals/"
+    },
+    "https://cnn.com/accessibility": {
+        "title": "Accessibility Video & Closed Captioning for IP-delivered Video - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/accessibility/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/accessibility"
+    },
+    "https://cnn.com/specials/africa/inside-africa": {
+        "title": "Inside Africa - CNN",
+        "description": "Each week, Inside Africa introduces you to innovators, entrepreneurs, tech trailblazers and artistic visionaries shaping the future of the African continent and beyond.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210107155046-inside-africa-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/africa/inside-africa/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/africa/inside-africa"
+    },
+    "https://cnn.com/specials/politics/fact-check-politics": {
+        "title": "Fact Check - CNN",
+        "description": "CNN holds elected officials and candidates accountable by pointing out what's true and what's not. Here's a look at our recent fact checks.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/201022141745-facts-first-logo-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/politics/fact-check-politics/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/politics/fact-check-politics"
+    },
+    "https://cnn.com/specials/health/life-but-better": {
+        "title": "Life, But Better",
+        "description": "Check out Life, But Better, CNN's source for information that inspires and challenges us to lead better lives. The journey begins here.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210428145846-life-but-better-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/health/life-but-better/favicon.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/specials/health/life-but-better"
+    },
+    "https://cnn.com/entertainment/tv-shows": {
+        "title": "TV Shows - Entertainment News - CNN",
+        "description": "View TV show news and videos for the latest recaps, viral moments, season updates and more on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/entertainment/tv-shows/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/entertainment/tv-shows"
+    },
+    "https://cnn.com/specials/sport/us-sports": {
+        "title": "US Sports - CNN",
+        "description": "US Sports news, results, and comments on CNN International.",
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/sport/us-sports/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/sport/us-sports"
+    },
+    "https://cnn.com/travel/destinations": {
+        "title": "Destinations ",
+        "description": "View CNN's world travel guides for recommendations, insider stories, photos and breath-taking video on the best things to see and do around the world.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/08/logo-cnntravel.png",
+        "favicon": "https://cnn.com/travel/destinations/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/travel/destinations"
+    },
+    "https://cnn.com/specials/cnn-longform": {
+        "title": "CNN Longform - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/cnn-longform/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/cnn-longform"
+    },
+    "https://cnn.com/edition.cnn.com?hpt=header_edition-picker": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/edition.cnn.com?hpt=header_edition-picker/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/edition.cnn.com?hpt=header_edition-picker"
+    },
+    "https://cnn.com/travel/videos": {
+        "title": "Travel Videos ",
+        "description": "Watch breathtaking travel videos of global destinations and experiences, from legendary hotels and insider tours to animal adventures and must-eat local food.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/08/logo-cnntravel.png",
+        "favicon": "https://cnn.com/travel/videos/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/travel/videos"
+    },
+    "https://cnn.com/privacy": null,
+    "https://cnn.com/style/fashion": {
+        "title": "Fashion news and features and the latest on celebrity fashion - CNN Style",
+        "description": "Exclusive interviews with top fashion designers, behind-the-scenes fashion week coverage, and thoughtful perspectives on the clothes we wear.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/fashion/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/fashion"
+    },
+    "https://cnn.com/email/subscription": {
+        "title": "CNN newsletters: Subscribe for news, lifestyle, markets info and more ",
+        "description": [
+            "To complete your CNN profile and ensure you are able to receive important account information, please verify your email address."
+        ],
+        "image": "https://cdn.cnn.com/cnn/2020/images/07/02/breaking-news_2.jpg",
+        "favicon": "//cnn.com/favicon.ie9.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/email/subscription"
+    },
+    "https://cnn.com/about": {
+        "title": "ABOUT CNN DIGITAL - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/about/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/about"
+    },
+    "https://cnn.com/specials/health/relationships-life-but-better": {
+        "title": "Relationships: Life, But Better - CNN",
+        "description": "Relationship and parenting advice from Life, But Better, CNN's essential source for information that inspires and challenges us to lead better lives.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210428145854-life-but-better-relationships-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/health/relationships-life-but-better/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/health/relationships-life-but-better"
+    },
+    "https://cnn.com/specials/tech/innovate": {
+        "title": "Innovate - CNN",
+        "description": "The ideas and technological innovations today that could change our world in the future.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/190111093938-20190111-innovate-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/tech/innovate/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/innovate"
+    },
+    "https://cnn.com/travel/news": {
+        "title": "Travel News ",
+        "description": "Travel News",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/08/logo-cnntravel.png",
+        "favicon": "https://cnn.com/travel/news/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/travel/news"
+    },
+    "https://cnn.com/": {
+        "title": "CNN International - Breaking News, US News, World News and Video",
+        "description": "Find the latest breaking news and information on the top stories, weather, business, entertainment, politics, and more. For in-depth coverage, CNN provides special reports, video, audio, photo galleries, and interactive guides.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/"
+    },
+    "https://cnn.com/twitter.com/cnni": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/twitter.com/cnni/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/twitter.com/cnni"
+    },
+    "https://cnn.com/specials/profiles": {
+        "title": "CNN Profiles - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/profiles/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/profiles"
+    },
+    "https://cnn.com/specials/digital-studios": {
+        "title": "Digital Studios - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/150107082806-digital-studios-card-super-169.jpg",
+        "favicon": "https://cnn.com/specials/digital-studios/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/digital-studios"
+    },
+    "https://cnn.com/uk": {
+        "title": "UK news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest UK news, videos, headlines and opinion on CNN.com.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/uk/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/uk"
+    },
+    "https://cnn.com/sport/motorsport": {
+        "title": "Formula 1 news, results, videos and features - CNN",
+        "description": "Latest motorsport news from Formula One, MotoGP and NASCAR, plus video features from CNN's The Circuit television show.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/sport/motorsport/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/sport/motorsport"
+    },
+    "https://cnn.com/specials/esports": {
+        "title": "Esports - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/esports/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/esports"
+    },
+    "https://cnn.com/specials/politics/joe-biden-news": {
+        "title": "Joe Biden news: Latest on the 46th US President - CNN",
+        "description": "The Biden White House: Latest news on the 46th President of the United States Joe Biden",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210118144127-46-joseph-biden-logo-card-image-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/politics/joe-biden-news/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/politics/joe-biden-news"
+    },
+    "https://cnn.com/specials/tech/innovative-cities": {
+        "title": "Innovative Cities - CNN",
+        "description": "CNN Business features the people, technologies, startups in cities where innovations are being designed to create a better world.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/180921153541-innovative-cities-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/tech/innovative-cities/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/innovative-cities"
+    },
+    "https://cnn.com/specials": {
+        "title": "Special Features - CNN",
+        "description": "Find latest news features on style, travel, business, entertainment, culture, and world. For in-depth reports, feature shows, video, and photo galleries.\n \n",
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials"
+    },
+    "https://cnn.com/entertainment/culture": {
+        "title": "Pop Culture - Entertainment News - CNN",
+        "description": "Explore pop culture news and videos on CNN.com for the latest headlines and trends.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/entertainment/culture/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/entertainment/culture"
+    },
+    "https://www.turnerjobs.com/search-jobs?orgIds=1174&ac=19299": {
+        "title": "Careers at WarnerMedia ",
+        "description": "home",
+        "image": "https://cdn.phenompeople.com/CareerConnectResources/WAMEGLOBAL/social/WM_logo-rev_1200x630-1608296101372.png",
+        "favicon": "https://cdn.phenompeople.com/CareerConnectResources/WAMEGLOBAL/en_global/desktop/assets/images/favicon.ico",
+        "sitename": "WarnerMedia",
+        "color": null,
+        "url": "https://www.turnerjobs.com/search-jobs?orgIds=1174&ac=19299"
+    },
+    "https://cnn.com/specials/videos/hln": {
+        "title": "HLN - CNN",
+        "description": "HLN is headline news in the morning, mysteries and investigations by night. ",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/170504153446-hln-logo-card-may-2017-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/videos/hln/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/videos/hln"
+    },
+    "https://cnn.com/travel/food-and-drink": {
+        "title": "Food & Drink ",
+        "description": "Explore the best places to eat and drink around the globe with videos, images and expert tips, plus get the latest news on the food world's movers and shakers.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/08/logo-cnntravel.png",
+        "favicon": "https://cnn.com/travel/food-and-drink/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/travel/food-and-drink"
+    },
+    "https://cnn.com/specials/tech/foreseeable-future": {
+        "title": "Foreseeable Future - CNN",
+        "description": "A conversation about the workplace revolution is just beginning. How hybrid offices, remote work, and office culture will evolve past the pandemic.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210727144745-office-workplace---stock-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/tech/foreseeable-future/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/tech/foreseeable-future"
+    },
+    "https://commercial.cnn.com": {
+        "title": "digital advertising ",
+        "description": [
+            "Follow us"
+        ],
+        "image": "/themes/base_theme/logo.png",
+        "favicon": "/themes/base_theme/favicon.ico",
+        "sitename": "Cnn",
+        "color": null,
+        "url": "https://commercial.cnn.com"
+    },
+    "https://cnn.com/health": {
+        "title": "Health News - CNN",
+        "description": "View the latest health news and explore articles on fitness, diet, nutrition, parenting, relationships, medicine, diseases and healthy living at CNN Health.",
+        "image": "//cdn.cnn.com/cnn/.e1mo/img/4.0/logos/cnn_health_banner.png",
+        "favicon": "https://cnn.com/health/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/health"
+    },
+    "https://cnn.com/specials/climbing": {
+        "title": "Climbing  - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/climbing/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/climbing"
+    },
+    "https://cnn.com/specials/more/cnn-leadership": {
+        "title": "CNN Profiles - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/more/cnn-leadership/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/more/cnn-leadership"
+    },
+    "https://cnn.com/style/architecture": {
+        "title": "Architecture news and features from around the world - CNN Style",
+        "description": "A closer look at the latest architecture news and trends, and the industry-leading architects building our world.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/architecture/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style/architecture"
+    },
+    "https://cnn.com/business": {
+        "title": "Breaking News, Latest News and Videos - CNN",
+        "description": null,
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/business/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/business"
+    },
+    "https://cnn.com/specials/impact-your-world": {
+        "title": "Impact Your World  - CNN",
+        "description": [],
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/160701085621-impact-your-world-card-2016-new-logo-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/impact-your-world/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/impact-your-world"
+    },
+    "https://cnn.com/style": {
+        "title": "CNN Style - Fashion, beauty, design, art, architecture and luxury",
+        "description": "International news and features from the worlds of fashion, beauty, design, architecture, arts and luxury from CNN Style.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/14/logo-cnnstyle.png",
+        "favicon": "https://cnn.com/style/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/style"
+    },
+    "https://cnn.com/business/success": {
+        "title": "Careers - News for Entrepreneurs and Leaders on CNN Business - CNN",
+        "description": "Read about how to advance in your career, the ways entrepreneurs are breaking new ground, and get leadership advice from the people at the top.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/business/success/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/business/success"
+    },
+    "https://cnn.com/specials/sport/formula-e": {
+        "title": "Formula E news, videos, features and interviews - CNN",
+        "description": "News and features from Formula E and the future of green travel, plus videos from CNN's Supercharged show.",
+        "image": "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg",
+        "favicon": "https://cnn.com/specials/sport/formula-e/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/sport/formula-e"
+    },
+    "https://cnn.com/travel/stay": {
+        "title": "Places to Stay ",
+        "description": "View unique accommodations and the best places to stay around the world, from luxury hotels to safari camps.",
+        "image": "https://i2.cdn.turner.com/cnn/2017/images/09/08/logo-cnntravel.png",
+        "favicon": "https://cnn.com/travel/stay/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/travel/stay"
+    },
+    "https://cnn.com/specials/world/freedom-project": {
+        "title": "\n        The CNN Freedom Project \u2014 ending modern-day slavery",
+        "description": "Ending modern-day slavery",
+        "image": "https://cdn.cnn.com/cnn/interactive/2018/specials/freedom-project/media/freedom-project-social.png",
+        "favicon": "https://cnn.com/specials/world/freedom-project/favicon.ico",
+        "sitename": "Com",
+        "color": null,
+        "url": "https://cnn.com/specials/world/freedom-project"
+    },
+    "https://cnn.com/business/videos": {
+        "title": "Videos - CNN Business - CNN",
+        "description": "Watch breaking news videos and original video clips about business, tech and finance on CNN Business.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/business/videos/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/business/videos"
+    },
+    "https://cnn.com/australia": {
+        "title": "Australia news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest Australia news, videos, headlines and opinion on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/australia/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/australia"
+    },
+    "https://cnn.com/sport": {
+        "title": "Latest sports news, videos, interviews and comment ",
+        "description": [
+            "All Golf"
+        ],
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/211231083808-01-tuchel-lukaku-restricted.jpg?c=16x9&q=h_270,w_480,c_fill",
+        "favicon": "//cnn.com/favicon.ie9.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/sport"
+    },
+    "https://cnn.com/business/media": {
+        "title": "Media News - Latest Headlines on CNN Business - CNN",
+        "description": "Find the latest headlines on media industry leaders and stakeholders, and read about the evolving ways people consume information.",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/business/media/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/business/media"
+    },
+    "https://cnn.com/cnnespanol.cnn.com?hpt=header_edition-picker": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/cnnespanol.cnn.com?hpt=header_edition-picker/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/cnnespanol.cnn.com?hpt=header_edition-picker"
+    },
+    "https://cnn.com/election/2021": {
+        "title": "2021 Election Results ",
+        "description": [
+            "LIVE"
+        ],
+        "image": "//politics-static.cnn.io/2021/assets/AmericasChoice-landing.jpg",
+        "favicon": "//cnn.com/favicon.ie9.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/election/2021"
+    },
+    "https://cnn.com/specials/health/mindfulness-life-but-better": {
+        "title": "Mindfulness: Life, But Better - CNN",
+        "description": "Mindfulness and stress tips, science and tools from Life, But Better, CNN's essential source for information that inspires and challenges us to lead better lives.",
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/210428145852-life-but-better-midfulness-card-super-tease.jpg",
+        "favicon": "https://cnn.com/specials/health/mindfulness-life-but-better/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/specials/health/mindfulness-life-but-better"
+    },
+    "https://cnn.com/africa": {
+        "title": "Africa news - breaking news, video, headlines and opinion - CNN",
+        "description": "View the latest Africa news and videos from Nigeria, South Africa, Kenya, Uganda, Ethiopia, Libya, Liberia and other African countries on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/africa/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/africa"
+    },
+    "https://cnn.com/entertainment/movies": {
+        "title": "Movies - Entertainment News - CNN",
+        "description": "View the latest movie news and reviews on CNN.com.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/entertainment/movies/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/entertainment/movies"
+    },
+    "https://money.cnn.com/data/markets/": {
+        "title": "Stock Market Data - Dow Jones, Nasdaq, S&P 500 - CNNMoney",
+        "description": [
+            "Do Not Sell"
+        ],
+        "image": "/.element/cnnm-3.0/img/logo/logo_cnn.svg",
+        "favicon": "https://money.cnn.com/data/markets/favicon.ico",
+        "sitename": "Cnn",
+        "color": null,
+        "url": "https://money.cnn.com/data/markets/"
+    },
+    "https://cnn.com/instagram.com/cnn": {
+        "title": "Error",
+        "description": "Error",
+        "image": "//pixel.quantserve.com/pixel/p-D1yc5zQgjmqr5.gif?labels=noscript%3ANo%20Labels%20Set",
+        "favicon": "https://cnn.com/instagram.com/cnn/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/instagram.com/cnn"
+    },
+    "https://cnn.com/sport/golf": {
+        "title": "Golf news, headlines, latest videos and analysis - CNN",
+        "description": "Latest golf news, views, player interviews and action from the PGA Tour, European Tour, Ryder Cup and the Ladies Professional Golf Association as well as video features from CNN's Living Golf television show.",
+        "image": "data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7",
+        "favicon": "https://cnn.com/sport/golf/favicon.ico",
+        "sitename": "CNN",
+        "color": null,
+        "url": "https://cnn.com/sport/golf"
+    }
+}
